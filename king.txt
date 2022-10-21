@@ -1,1 +1,2 @@
 king is waiting for queen
+queen is waiting
